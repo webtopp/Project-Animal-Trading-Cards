@@ -1,0 +1,48 @@
+/* add your CSS here */
+
+
+body {
+    font-family: 'Roboto Slab', serif;
+}
+
+.wrapper {
+ border: 1px solid #808080;   max-width: 320px;
+    border-radius: 6px;
+    margin: 0 auto;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 12px;
+    font-family: 'Roboto Slab', serif;
+    padding: 10px;
+    -webkit-box-shadow: 10px 10px 30px #ccc;
+    box-shadow: 5px 5px 30px #ccc;
+
+    background-color: #ffffff;
+    
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f1e767', endColorstr='#fff4cb', GradientType=0);
+}
+
+.pic {
+    max-width: 300px;
+    max-height: 300px;
+    border-radius: 6px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.wrapper .text-container {
+    border: 1px solid #808080;
+    border-radius: 4px;
+}
+
+.main-container {
+    overflow: hidden;
+    margin-bottom: 10px;
+}
+
+.text-container {
+    padding: 14px;
+}
